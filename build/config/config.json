@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8575B2A42178DB477A8f80AFA98230Af673C2E37",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8575b2a42178db477a8f80afa98230af673c2e37",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "0841test2",
+  "SYMBOL": "zoon",
+  "MAX_SUPPLY": 9,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/0841test2",
+  "SHOW_BACKGROUND": true
+}
